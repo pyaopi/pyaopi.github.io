@@ -140,8 +140,8 @@ hgroup{
 }
 .row {
   width: 75%%;
-  height: 60%;
   padding-left: 20%;
+  height: 60%;
   padding-right: 20%;
   padding-top: 15px;
   padding-bottom: 15px;
@@ -154,15 +154,14 @@ hgroup{
 }
 .row > .col-3 {
   width: 30%;
-  height: 60%;
+  height: 100%;
   box-sizing: border-box;
-  float: left;
+  float: center;
   padding-left: 5px;
   padding-right: 5px;
 }
 footer {
   width: 100%;
-  height: 40px;
   padding-top: 20px;
   display: block;
   background-color: #ee6e73;
