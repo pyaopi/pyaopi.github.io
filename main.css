@@ -95,17 +95,17 @@ li.active > a.nav-button {
   padding: 0;
 }
 .parallax.p1 {
-  background: url(http://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-70374.jpg) no-repeat fixed 50% 0;
+  background: url(http://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-70374.jpg) no-repeat fixed 30% 0;
   background-size: cover;
   color: #fff;
 }
 .parallax.p2 {
-  background: url(http://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-126549.jpg) no-repeat fixed 50% 0;
+  background: url(http://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-126549.jpg) no-repeat fixed 30% 0;
   background-size: cover;
   color: #fff;
 }
 .parallax.p3 {
-  background: url(http://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-95766.jpg) no-repeat fixed 70% 0;
+  background: url(http://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-95766.jpg) no-repeat fixed 30% 0;
   background-size: cover;
   color: #fff;
 }
@@ -154,7 +154,7 @@ hgroup{
 }
 .row > .col-3 {
   width: 30%;
-  height: 40%;
+  height: 60%;
   box-sizing: border-box;
   float: center;
   padding-left: 5px;
