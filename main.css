@@ -162,6 +162,7 @@ hgroup{
 }
 footer {
   width: 100%;
+  height: 40px;
   padding-top: 20px;
   display: block;
   background-color: #ee6e73;
