@@ -139,12 +139,12 @@ hgroup{
   z-index: 2;
 }
 .row {
-  width: 80%;
+  width: 75%%;
   padding-left: 10%;
   padding-right: 10%;
   padding-top: 15px;
   padding-bottom: 15px;
-  min-height: 150px;
+  max-height: 150px;
 }
 .row:after {
   content: "";
