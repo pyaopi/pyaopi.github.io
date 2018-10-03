@@ -8,7 +8,7 @@ body{
 }
 
 #cover-photo{
-    background-image: "leaves.jpg";
+    background-image: url("leaves.jpg");
     height: 800px;
     background-attachment: fixed;
     background-position: center;
