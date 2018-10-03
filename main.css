@@ -8,7 +8,7 @@ body{
 }
 
 #cover-photo{
-    background-image: url("https://www.techprevue.com/wp-content/uploads/2017/06/electronic-devices-1.jpg");
+    background-image: img("leaves.jpg");
     height: 740px;
     background-attachment: fixed;
     background-position: center;
